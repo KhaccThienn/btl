@@ -1,0 +1,21 @@
+.bg-searchbar {
+  z-index: 1 !important;
+  position: relative !important;
+  background: rgb(211, 211, 211);
+}
+.input{
+  padding: 5px;
+  background: transparent;
+  outline: none;
+  border: none;
+}
+.button{
+  background: transparent;
+  border: none;
+}
+.icons{
+  color: black !important;
+}
+.icons:hover{
+  color: #a38b00 !important;
+}

@@ -1,0 +1,44 @@
+@font-face {
+  font-family: Wedding;
+  src: url("../../../../../Assets/Font/RomanceLogicDemo-Wy8BE.ttf");
+}
+
+@font-face {
+  font-family: raleways;
+  src: url("../../../../../Assets/Font/Raleway-Light.ttf");
+}
+
+.btn-custom{
+  border: 1px solid black !important;
+  background-color: transparent !important;
+  padding: 15px;
+}
+.btn-custom:hover{
+  background-color: white !important;
+  color: black !important;
+}
+.font-wed{
+  letter-spacing: 0.3em;
+  color: white;
+    text-shadow:
+      -1px -1px 0 #FFD700	,
+      0 -1px 0 #FFD700	,
+      1px -1px 0 #FFD700	,
+      1px 0 0 #FFD700	,
+      1px 1px 0 #FFD700	,
+      0 1px 0 #FFD700	,
+      -1px 1px 0 #FFD700	,
+      -1px 0 0 #FFD700	;
+  color: rgb(119, 119, 119);
+  font-size: 20px !important;
+  font-family: "Wedding" !important;
+}
+
+.bg-banner{
+  background-color: #D3D3D399;
+}
+.banner{
+  font-family: "raleways";
+  letter-spacing: 9px;
+  font-size: 13px;
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: raleways;
+  src: url('../../../../../Assets/Font/Raleway-SemiBold.ttf');
+}
+
+.bg-info{
+  color: white;
+  background: black;
+}
+.phone, .mailing, .address{
+  font-family: 'raleways';
+  display: flex;
+  align-items: center;
+  font-size: small;
+}

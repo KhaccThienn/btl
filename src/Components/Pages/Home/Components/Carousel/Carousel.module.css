@@ -1,0 +1,10 @@
+.img-circle{
+  background: transparent !important;
+  width: 50% !important;
+}
+.swiper-button-next::after , .swiper-button-prev::after{
+  color: black !important;
+}
+.swiper-pagination-bullet{
+  color: black !important;
+}
