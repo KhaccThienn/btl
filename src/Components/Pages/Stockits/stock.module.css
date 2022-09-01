@@ -1,0 +1,52 @@
+@font-face {
+  font-family: raleways;
+  src: url("../../../Assets/Font/Raleway-Regular.ttf");
+}
+
+.headers{
+  text-transform: uppercase;
+  color: rgb(48, 49, 50, 0.8);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: 0.3em;
+}
+.content{
+  font-size: 14px;
+  letter-spacing: 3px;
+  line-height: 16.5px;
+}
+
+.border-custom {
+  --color: black;
+  --position: center bottom;
+  --width: 100px;
+  --height: 1px;
+  background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+  padding-bottom: 10px;
+  font: bold 2.5rem sans-serif;
+}
+
+.border-custom-1 {
+  --color: black;
+  --position: center bottom;
+  --width: 30px;
+  --height: 1px;
+  background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+  padding-bottom: 10px;
+  font: bold 2.5rem sans-serif;
+}
+
+.stores{
+  line-height: 1.6em;
+}
+.stores .name{
+  color: rgb(48, 49, 50);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+.text{
+  font-family: 'raleways';
+  margin: 0 auto;
+  width: 20%;
+}

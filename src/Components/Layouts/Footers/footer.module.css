@@ -1,0 +1,59 @@
+@font-face {
+  font-family: raleways;
+  src: url("../../../Assets/Font/Raleway-Light.ttf");
+}
+@font-face {
+  font-family: raleways_thins;
+  src: url("../../../Assets/Font/RomanceLogicDemo-Wy8BE.ttf");
+}
+.bg-footer {
+  background: rgb(48, 49, 50);
+}
+.headers{
+  letter-spacing: 2px;
+  font-family: "raleways";
+  text-transform: uppercase;
+  color: rgb(211, 211, 211);
+}
+.icons a{
+  color: rgb(211, 211, 211);
+}
+.icons a:hover{
+  color: #FFD700;
+}
+svg{
+  font-size: 20px;
+}
+.input {
+  width: 80% !important;
+  outline: none;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 3px !important;
+}
+.btn-custom {
+  margin-top: 5px;
+}
+.btn-custom:hover{
+  background-color: white;
+}
+.w-10{
+  width: 10%;
+}
+.transparent{
+  color: white !important;
+  border: 1px solid wheat !important;
+  background: transparent;
+}
+.transparent:focus{
+  background: transparent !important;
+}
+.contact{
+  letter-spacing: 5px;
+  font-family: "raleways_thins";
+  color: white;
+}
+.copyright{
+  font-family: "raleways";
+  color: rgb(211, 211, 211);
+}

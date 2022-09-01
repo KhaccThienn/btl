@@ -1,0 +1,171 @@
+{
+  "color": [
+    {
+      "id": 1,
+      "name": "Black",
+      "typeColor": "success"
+    },
+    {
+      "id": 2,
+      "name": "Brown",
+      "typeColor": "success"
+    },
+    {
+      "id": 3,
+      "name": "Green",
+      "typeColor": "success"
+    },
+    {
+      "id": 4,
+      "name": "Off White",
+      "typeColor": "success"
+    },
+    {
+      "id": 5,
+      "name": "Purple",
+      "typeColor": "success"
+    },
+    {
+      "id": 6,
+      "name": "Red",
+      "typeColor": "success"
+    },
+    {
+      "id": 7,
+      "name": "White",
+      "typeColor": "success"
+    }
+  ],
+  "shopPages": [
+    {
+      "id": 1,
+      "name": "Am",
+      "image": "https://static.wixstatic.com/media/cda177_5b63fc47d8984bd094328cc5cf2045ef.png",
+      "prices": 950,
+      "color_id": 3,
+      "color": "Green",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 2,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_467ce979b6924fe689b1347d7a982f3c.png",
+      "prices": 950,
+      "color_id": 7,
+      "color": "White",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 3,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_44a04a0dbe2e4fe09bcb0e99d933925f.png",
+      "prices": 950,
+      "color_id": 2,
+      "color": "Brown",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 4,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_95cd2230351d454e8fd76b7545766138.png",
+      "prices": 950,
+      "color_id": 1,
+      "color": "BLack",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 5,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_eb61b785ee834218a45a9fad11e1d19b.png",
+      "prices": 950,
+      "color_id": 5,
+      "color": "Red",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 6,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_f1f82c1c2f2f42df9e23af0c01bf10aa.png",
+      "prices": 950,
+      "color_id": 1,
+      "color": "BLack",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 7,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_7459c231dd544be7ac7f6f5a1f379d76.png",
+      "prices": 950,
+      "color_id": 5,
+      "color": "Purple",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 8,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_1c16f70e659f4d0d9f48b5d2f4f211f2.png",
+      "prices": 950,
+      "color_id": 4,
+      "color": "Off White",
+      "salePrices": 11800,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 9,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_1fbd6bdcacca487d80040668c1e587f2.png",
+      "prices": 1000,
+      "color_id": 6,
+      "color": "Black",
+      "salePrices": 1000,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 10,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_5b63fc47d8984bd094328cc5cf2045ef.png",
+      "prices": 1000,
+      "color_id": 3,
+      "color": "Green",
+      "salePrices": 1000,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 11,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_467ce979b6924fe689b1347d7a982f3c.png",
+      "prices": 1000,
+      "color_id": 7,
+      "color": "White",
+      "salePrices": 1000,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+      "id": 12,
+      "name": "I'm Product",
+      "image": "https://static.wixstatic.com/media/cda177_44a04a0dbe2e4fe09bcb0e99d933925f.png",
+      "prices": 1000,
+      "color_id": 2,
+      "color": "Brown",
+      "salePrices": 1000,
+      "prodDetail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    }
+  ],
+  "cart": [],
+  "user": [
+    {
+      "name": "Thien",
+      "phone": "0392689213",
+      "email": "muzankibut112@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ]
+}

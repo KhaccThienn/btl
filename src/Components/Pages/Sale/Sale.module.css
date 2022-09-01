@@ -1,0 +1,60 @@
+.headers {
+  text-transform: uppercase;
+  font-size: 19px;
+  letter-spacing: 0.3em;
+  font-weight: 600;
+  color: #303132;
+}
+
+.border-custom {
+  --color: black;
+  --position: center bottom;
+  --width: 100%;
+  --height: 1px;
+  background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+  padding-bottom: 10px;
+  font: bold 2.5rem sans-serif;
+}
+
+.header {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #303132;
+}
+
+.border-custom-1 {
+  --color: #48495070;
+  --position: center bottom;
+  --width: 100%;
+  --height: 1px;
+  background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+  padding-bottom: 10px;
+  font: bold 2.5rem sans-serif;
+}
+
+li {
+  list-style: none !important;
+}
+
+.range {
+  font-size: 18px !important;
+}
+
+.col-lg-6 {
+  margin-right: 12px !important;
+  padding: 0 !important;
+}
+
+.form-group {
+  padding: 0 !important;
+}
+
+.filter_size {
+  margin-right: 12px !important;
+  padding: 0 !important;
+}
+
+.card {
+  width: 33%;
+}

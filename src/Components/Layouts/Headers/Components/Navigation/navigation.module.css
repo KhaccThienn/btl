@@ -1,0 +1,35 @@
+.bg-navigation{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(211, 211, 211);
+  background: rgb(83, 81 , 81);
+}
+.logo{
+  cursor: pointer;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 0.3em;
+}
+.logo:hover{
+  text-decoration: none !important;
+}
+.navigation{
+  padding-right: 0 !important;
+}
+.navigation a{
+  letter-spacing: 0.2rem;
+  margin-left: 20px;
+  color: rgb(211, 211, 211);
+}
+.navigation a:hover{
+  color: #FFD700;
+}
+.bridal{
+  color: #FFD700;
+}
+.active {
+  color: #FFD700 !important;
+}
+.main_logo{
+  color: rgb(211, 211, 211);
+}
